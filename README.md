@@ -2,7 +2,7 @@
 
 This project is made for gamejam organized by google oyun ve uygulama academy. The assets used were never used for commercial purposes.
 
-[in LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7052455769971011584/)
+[Game video in Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7052455769971011584/)
 
 ## In-game images
 
